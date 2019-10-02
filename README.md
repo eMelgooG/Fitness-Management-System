@@ -1,5 +1,5 @@
 # Fitness-Management-System  
-An updated version:https://github.com/eMelgooG/fitnessMMS-PostgreSQL  
+An updated version that uses PostgreSQL to manage data: https://github.com/eMelgooG/fitnessMMS-PostgreSQL  
   This is the final project of the book "Learn Java in one day and learn it well" by Jamie Chan and my first OOP project which demonstrates the programming concepts in the book through a console application. </br>
    We will be working on a basic membership management system for a fitness centre. The fitness centre has three outlets: Club Mercury, Club Neptune and Club Jupiter. It also has two type of members: SingleClubMember which has access to only one of the clubs and MultiClubMember who has access too all the clubs.</br>
   The membership fee of a member depends wether it's a single club member or multi club member. For single club members, the fees also depend on which club he/she has access to.</br>
