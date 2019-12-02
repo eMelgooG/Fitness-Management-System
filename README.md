@@ -1,5 +1,6 @@
 # Fitness-Management-System  
-   This is a basic membership management system for a fitness centre: 
+   This is a basic membership management system for a fitness centre:  
+   
 -> the fitness centre has three outlets: Club Mercury, Club Neptune and Club Jupiter. It also has two type of members: SingleClubMember which has access to only one of the clubs and MultiClubMember who has access too all the clubs.  
    
 -> the membership fee of a member depends wether it's a single club member or multi club member. For single club members, the fees also depend on which club he/she has access to.</br>
