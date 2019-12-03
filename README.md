@@ -22,5 +22,6 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
    
 ![](https://imgur.com/5hYzIY4.png)  
  Display member info:  
+   
  ![](https://imgur.com/543M5vS.png)
 
