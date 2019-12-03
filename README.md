@@ -13,9 +13,9 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
 ## Demo  
 
  As you can see from the screenshot there is already the members.csv file where all the entries are saved. If there isn't one in your folder, don't worry about it, the app will create the file automatically in the root folder of your project. Now let's run the program:
-![](https://imgur.com/OWJPjKq)  
+![](https://imgur.com/OWJPjKq.png)  
  Adding a new member:  
-![](https://imgur.com/gpGXyRC)  
+![](https://imgur.com/gpGXyRC.png)  
  Removing a member:  
-![](https://imgur.com/5hYzIY4)
+![](https://imgur.com/5hYzIY4.png)
 
