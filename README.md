@@ -18,6 +18,8 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
  Adding a new member:
    
 ![](https://imgur.com/3KsAmCM.png)  
+  
+  Everytime we complete an action the app will pop-up with the initial menu.  
  Removing a member:  
    
 ![](https://imgur.com/ncvNgLC.png)  
@@ -25,4 +27,4 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
    
  ![](https://imgur.com/543M5vS.png)
   
-  Everytime we complete an action the app will pop-up with the initial menu. 
+
