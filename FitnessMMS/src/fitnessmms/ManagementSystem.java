@@ -26,8 +26,8 @@ public class ManagementSystem {
         }
     private void printClubOptions() {
         System.out.println("1)Mercury");
-        System.out.println("2)Origin");
-        System.out.println("3)Topogan");
+        System.out.println("2)Neptune");
+        System.out.println("3)Jupiter");
         System.out.println("4)Multi Club Member");
     }
     
