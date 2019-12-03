@@ -24,4 +24,5 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
  Display member info:  
    
  ![](https://imgur.com/543M5vS.png)
-
+  
+  Everytime we complete an action the app will pop-up with the initial menu. 
