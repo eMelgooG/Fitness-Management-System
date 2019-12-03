@@ -97,13 +97,14 @@ public class ManagementSystem {
     
     public void removeMember (LinkedList<Member> m) {
         int memberID;
-        System.out.println("Please enter member id to remove: ");
+        System.out.print("Please enter member id to remove: ");
         memberID = getIntInput();
         
         for (int i = 0 ; i < m.size() ; i++) {
             if (memberID == m.get(i).getID()) {
                 m.remove(i);
                 System.out.println("Member removed!");
+                System.out.println();
                 return;
             }
         }
