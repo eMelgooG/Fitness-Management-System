@@ -17,10 +17,10 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
 ![](https://imgur.com/OWJPjKq.png)  
  Adding a new member:  
    
-![](https://imgur.com/gpGXyRC.png)  
+![](https://imgur.com/3KsAmCM.png)  
  Removing a member:  
    
-![](https://imgur.com/5hYzIY4.png)  
+![](https://imgur.com/6CRO07K.png)  
  Display member info:  
    
  ![](https://imgur.com/543M5vS.png)
