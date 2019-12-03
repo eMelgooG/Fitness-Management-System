@@ -20,7 +20,7 @@ An updated version which uses PostgreSQL to manage data, can be found [here](htt
 ![](https://imgur.com/3KsAmCM.png)  
  Removing a member:  
    
-![](https://imgur.com/6CRO07K.png)  
+![](https://imgur.com/ncvNgLC.png)  
  Display member info:  
    
  ![](https://imgur.com/543M5vS.png)
